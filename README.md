@@ -1,10 +1,9 @@
 # Procesamiento de Datos en Databricks 
 
-Este repositorio contiene scripts y notebooks para procesar grandes volúmenes de datos en Databricks utilizando PySpark.
+Este repositorio contiene scripts y notebooks para procesar grandes volúmenes de datos en Databricks utilizando PySpark, además de ciertos ejercicios realizados en sqlite3
 
 ## Estructura del Proyecto
-- `data/` → Datos de entrada en formatos CSV, JSON y Parquet.
-- `notebooks/` → Notebooks de Databricks con código y análisis.
+- `data/` → Datos de entrada y datos de salida en formatos CSV, JSON y Parquet.
 - `scripts/` → Scripts en PySpark para limpieza y transformación de datos.
 
 ## Instalación y Configuración
@@ -13,8 +12,3 @@ Este repositorio contiene scripts y notebooks para procesar grandes volúmenes d
 - PySpark
 - Databricks CLI (opcional)
 
-### Instalación
-```bash
-git clone https://github.com/usuario/databricks-data-processing.git
-cd databricks-data-processing
-pip install -r requirements.txt
