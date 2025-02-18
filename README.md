@@ -1,8 +1,8 @@
-# Procesamiento de Datos en Databricks 🚀
+# Procesamiento de Datos en Databricks 
 
 Este repositorio contiene scripts y notebooks para procesar grandes volúmenes de datos en Databricks utilizando PySpark.
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 - `data/` → Datos de entrada en formatos CSV, JSON y Parquet.
 - `notebooks/` → Notebooks de Databricks con código y análisis.
 - `scripts/` → Scripts en PySpark para limpieza y transformación de datos.
