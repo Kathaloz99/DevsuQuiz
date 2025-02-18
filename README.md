@@ -7,7 +7,7 @@ Este repositorio contiene scripts y notebooks para procesar grandes volúmenes d
 - `notebooks/` → Notebooks de Databricks con código y análisis.
 - `scripts/` → Scripts en PySpark para limpieza y transformación de datos.
 
-## 🛠 Instalación y Configuración
+## Instalación y Configuración
 ### Requisitos
 - Python 3.8+
 - PySpark
